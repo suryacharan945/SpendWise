@@ -1,0 +1,6 @@
+{
+  "name": "SpendWise",
+  "description": "An AI-powered personal finance and budget tracker with intelligence, goals, analytics, gamified rewards, and smart coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

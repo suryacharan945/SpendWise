@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Vault / Shield Base -->
+    <path
+        android:fillColor="#1E3324"
+        android:strokeColor="#B9E48A"
+        android:strokeWidth="2.6"
+        android:strokeLineJoin="round"
+        android:pathData="M54,22 L82,34 V62 C82,78 70,88 54,94 C38,88 26,78 26,62 V34 Z" />
+    <!-- 3 Dynamic Rising Growth Financial Bars -->
+    <path
+        android:fillColor="#4A8A40"
+        android:pathData="M35,62 h8 v14 h-8 z" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M50,52 h8 v24 h-8 z" />
+    <path
+        android:fillColor="#B9E48A"
+        android:pathData="M65,42 h8 v34 h-8 z" />
+    <!-- Upward Growth Trendline -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M37,56 L54,44 L72,32" />
+    <!-- Trend Arrow Tip -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M67,31 L74,30 L73,37 Z" />
+    <!-- Top-Right Sparkle Diamond -->
+    <path
+        android:fillColor="#B9E48A"
+        android:pathData="M81,25 L82.5,28.5 L86,30 L82.5,31.5 L81,35 L79.5,31.5 L76,30 L79.5,28.5 Z" />
+</vector>
